@@ -6,7 +6,7 @@ def show_list(list):
 
 fruits = ["Mangue", "Pomme", "Ananas", "Banane"]
 
-print({show_list(fruits)})
+print({show_list(fruits)})   
 
 # Ajout a la liste 
 fruits.append("Pasteque")
