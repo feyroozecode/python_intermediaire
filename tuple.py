@@ -11,3 +11,5 @@ print(week_days_tuple)
 
 for weekDay in week_days_tuple:
     print(f"On est {weekDay}")
+
+
